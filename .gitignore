@@ -10,5 +10,11 @@ out/
 # Docs
 docs/
 
+
 # Dotenv file
 .env
+
+.DS_Store
+
+# zksync
+zkout/
