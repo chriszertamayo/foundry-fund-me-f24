@@ -14,6 +14,9 @@ docs/
 # Dotenv file
 .env
 
+broadcast/
+lib/
+
 .DS_Store
 
 # zksync
